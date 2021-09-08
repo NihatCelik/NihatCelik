@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 ![Nihat Celiks's github stats](https://github-readme-stats.vercel.app/api?username=nihatcelik&show_icons=true)
 
 ![](https://komarev.com/ghpvc/?username=nihatcelik&style=flat-square)
+<a href="https://linkedin.com/in/nihatcelik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rozturac" height="32" width="24" /></a>
+</p>
